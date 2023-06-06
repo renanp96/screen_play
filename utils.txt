@@ -1,0 +1,4 @@
+-Configurando o DevTools do SpringBoot no Intellij:
+    -Aperte duas vezes a tecla "shift" ou "ctrl + alt + s" para abrir a janela de configuração.
+    -Ir para sessão 'Build, Execution, Deployment' e depois ir para sessão de 'Compiler'.
+    -Em 'Compiler' ativar a flag 'Build project automatically'.
